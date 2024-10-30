@@ -2,12 +2,24 @@
 
 Orrery-Web-App is a virtual model of the Solar System built with React and Three.js. This interactive web application allows users to explore the planets, their textures, and orbital positions. The app features a detailed and immersive visual experience of our solar neighborhood.
 
+## Table of Contents
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Features
 
 - **Interactive 3D Model**: Explore the planets in real-time with WebGL rendering.
 - **Planetary Textures**: Each planet has its realistic surface texture, enhancing visual appeal.
 - **Responsive Design**: Optimized for both desktop and mobile viewing.
 - **Full-Screen Mode**: Provides a full-screen immersive experience.
+
+## Live Demo
+
+Check out the live demo of the app [here](https://orrery-web-app-seven.vercel.app)
 
 ## Installation
 
